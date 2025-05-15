@@ -1,4 +1,4 @@
-# 🚀 High Performance Computing Laboratory - SPPU 🚀
+## 🚀 High Performance Computing Laboratory - SPPU 🚀
 
 [![GitHub license](https://img.shields.io/github/license/kunalPisolkar24/HPC_Lab)](https://github.com/kunalPisolkar24/HPC_Lab/blob/main/LICENSE)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kunalPisolkar24/HPC_Lab)

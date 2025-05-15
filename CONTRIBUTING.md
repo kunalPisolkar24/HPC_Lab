@@ -1,4 +1,4 @@
-# Contributing to High Performance Computing Laboratory - SPPU
+## Contributing to High Performance Computing Laboratory - SPPU
 
 🎉 First off, thank you for considering contributing to the HPC Lab repository! 🎉
 
